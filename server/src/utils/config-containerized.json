@@ -1,0 +1,8 @@
+{
+  "db": {
+    "host": "my-app-mysql",
+    "user": "root",
+    "password": "12345",
+    "database": "vacations"
+  }
+}
